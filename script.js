@@ -6,5 +6,19 @@ console.log(planets[2]);
 console.log(planets[3]);
 console.log(planets[4]);
 
+let hello = function (world) {
+    world = 'Hello World !'
+    return world
+
+}
+
+console.log(hello())
+
+
+
+
+
+
+
 
 
