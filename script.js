@@ -6,3 +6,5 @@ console.log(planets[2]);
 console.log(planets[3]);
 console.log(planets[4]);
 
+
+
